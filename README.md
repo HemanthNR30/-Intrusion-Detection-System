@@ -1,4 +1,4 @@
-# -Intrusion-Detection-System
+# Intrusion-Detection-System
 Real-time Network Intrusion Detection System powered by Machine Learning with interactive dashboards and secure alert management.
 
 # 🚨 AI-Powered Network Intrusion Detection System (NIDS)
